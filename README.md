@@ -37,5 +37,5 @@ Kona's Discord WebHook Tools is a collection of quality utilities for managing D
 
 ## Join Us!
 
-Contributions are more than welcome! Check out our (discord server)[https://discord.gg/McmEcDP2h9] to be a part of this and many other projects!
+Contributions are more than welcome! Check out our [discord server](https://discord.gg/McmEcDP2h9) to be a part of this and many other projects!
 
